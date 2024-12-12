@@ -3,7 +3,7 @@ import { twMerge } from "tailwind-merge";
 
 const handleSearch = async (value, setResponse) => {
   const response = await fetch(
-    "https://onboarder-jav.vercel.app/ask-question",
+    "https://Web3XP-jav.vercel.app/ask-question",
     {
       method: "POST",
       mode: "cors",

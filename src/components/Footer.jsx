@@ -14,7 +14,7 @@ export function Footer() {
             <Link
               to="https://twitter.com"
               className="group"
-              aria-label="Onboarder on Twitter"
+              aria-label="Web3XP on Twitter"
             >
               <svg
                 aria-hidden="true"
@@ -26,7 +26,7 @@ export function Footer() {
             <Link
               to="https://github.com"
               className="group"
-              aria-label="Onboarder on GitHub"
+              aria-label="Web3XP on GitHub"
             >
               <svg
                 aria-hidden="true"
@@ -37,7 +37,7 @@ export function Footer() {
             </Link>
           </div>
           <p className="mt-6 text-sm text-magwhite/80 sm:mt-0">
-            Copyright &copy; {new Date().getFullYear()} Onboarder. All rights
+            Copyright &copy; {new Date().getFullYear()} Web3XP. All rights
             reserved.
           </p>
         </div>

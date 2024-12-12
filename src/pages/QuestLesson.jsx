@@ -31,11 +31,11 @@ const Quest = () => {
     <section className="min-h-screen min-w-screen grad-l1">
       <Helmet>
         <title>
-          Onboarder - Seamlessly Onboard to Web3 Products and Protocols
+          Web3XP - Seamlessly Onboard to Web3 Products and Protocols
         </title>
         <meta
           name="description"
-          content="Onboarder is a Web3 onboarding solution that allows users to seamlessly onboard to decentralized products and protocols."
+          content="Web3XP is a Web3 onboarding solution that allows users to seamlessly onboard to decentralized products and protocols."
         />
       </Helmet>
       <Header />

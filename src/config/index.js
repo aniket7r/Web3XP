@@ -46,17 +46,17 @@ import {
 
 const CONFIG = {
   SEO: {
-    TITLE: "Onboarder - Seamlessly Onboard to Web3 Products and Protocols",
+    TITLE: "Web3XP - Seamlessly Onboard to Web3 Products and Protocols",
     DESCRIPTION:
-      "Onboarder is a Web3 onboarding solution that allows users to seamlessly onboard to decentralized products and protocols.",
+      "Web3XP is a Web3 onboarding solution that allows users to seamlessly onboard to decentralized products and protocols.",
   },
   PARTNERS_CONFIG: [
     {
       SLUG: "bnb-greenfield",
       SEO: {
-        TITLE: "Onboarder - Learn Binance Smart Chain's BNB GreenField",
+        TITLE: "Web3XP - Learn Binance Smart Chain's BNB GreenField",
         DESCRIPTION:
-          "Learn about the decentralized data storage system and economy - BnB Greenfield - in 5 steps with Onboarder.",
+          "Learn about the decentralized data storage system and economy - BnB Greenfield - in 5 steps with Web3XP.",
       },
       COMPONENTS: {
         HERO: GreenFieldHero,
@@ -68,9 +68,9 @@ const CONFIG = {
       SLUG: "theta",
       SEO: {
         TITLE:
-          "Onboarder - Learn about the Theta Network's Video Infrastructure",
+          "Web3XP - Learn about the Theta Network's Video Infrastructure",
         DESCRIPTION:
-          "Learn how to lower your cost to encode, store and deliver video with Theta's Video Infrastructure, in 5 steps with Onboarder.",
+          "Learn how to lower your cost to encode, store and deliver video with Theta's Video Infrastructure, in 5 steps with Web3XP.",
       },
       COMPONENTS: {
         HERO: ThetaHero,
@@ -82,9 +82,9 @@ const CONFIG = {
     {
       SLUG: "gnosis",
       SEO: {
-        TITLE: "Onboarder - Explore Gnosis Chain, the community run chain",
+        TITLE: "Web3XP - Explore Gnosis Chain, the community run chain",
         DESCRIPTION:
-          "Learn about one of the first Ethereum sidechains and has stayed true to its values, Gnosis Chain, in 5 steps with Onboarder.",
+          "Learn about one of the first Ethereum sidechains and has stayed true to its values, Gnosis Chain, in 5 steps with Web3XP.",
       },
       COMPONENTS: {
         HERO: GnosisHero,
@@ -97,9 +97,9 @@ const CONFIG = {
       SLUG: "mantle",
       SEO: {
         TITLE:
-          "Onboarder - Explore Mantle Network, an Ethereum rollup with exceptional UX",
+          "Web3XP - Explore Mantle Network, an Ethereum rollup with exceptional UX",
         DESCRIPTION:
-          "Learn about one of the first Ethereum sidechains and has stayed true to its values, Mantle Chain, in 5 steps with Onboarder.",
+          "Learn about one of the first Ethereum sidechains and has stayed true to its values, Mantle Chain, in 5 steps with Web3XP.",
       },
       COMPONENTS: {
         HERO: MantleHero,
@@ -112,9 +112,9 @@ const CONFIG = {
       SLUG: "space-time",
       SEO: {
         TITLE:
-          "Onboarder - Explore Space and Time, a decentralized data warehouse",
+          "Web3XP - Explore Space and Time, a decentralized data warehouse",
         DESCRIPTION:
-          "Learn about one the first data warehouse that connects on-chain and off-chain data, Space and Time, in 5 steps with Onboarder.",
+          "Learn about one the first data warehouse that connects on-chain and off-chain data, Space and Time, in 5 steps with Web3XP.",
       },
       COMPONENTS: {
         HERO: SpaceTimeHero,
@@ -126,9 +126,9 @@ const CONFIG = {
       SLUG: "flow",
       SEO: {
         TITLE:
-          "Onboarder - Explore Flow Blockchain, a permissionless layer 1 blockchain,",
+          "Web3XP - Explore Flow Blockchain, a permissionless layer 1 blockchain,",
         DESCRIPTION:
-          "Learn about a highly scalable permissionless blockchain designed for massive throughput, Flow, in 5 steps with Onboarder.",
+          "Learn about a highly scalable permissionless blockchain designed for massive throughput, Flow, in 5 steps with Web3XP.",
       },
       COMPONENTS: {
         HERO: FlowHero,
@@ -141,9 +141,9 @@ const CONFIG = {
       SLUG: "truflation",
       SEO: {
         TITLE:
-          "Onboarder - Explore Truflation, an unbiased, real-market inflation and economic data aggregator",
+          "Web3XP - Explore Truflation, an unbiased, real-market inflation and economic data aggregator",
         DESCRIPTION:
-          "Learn about an unbiased, real-market inflation and economic data aggregator, Truflation, in 5 steps with Onboarder.",
+          "Learn about an unbiased, real-market inflation and economic data aggregator, Truflation, in 5 steps with Web3XP.",
       },
       COMPONENTS: {
         HERO: TruflationHero,
