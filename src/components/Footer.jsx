@@ -14,7 +14,6 @@ export function Footer() {
             <Link
               to="https://twitter.com"
               className="group"
-              aria-label="Web3XP on Twitter"
             >
               <svg
                 aria-hidden="true"
@@ -26,7 +25,6 @@ export function Footer() {
             <Link
               to="https://github.com"
               className="group"
-              aria-label="Web3XP on GitHub"
             >
               <svg
                 aria-hidden="true"
